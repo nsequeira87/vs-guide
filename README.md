@@ -1,16 +1,19 @@
 ### Buy from Alliance Store (restocks every Monday) 
-1 - 8h shield **mandatory**
-1 - 24h shield **mandatory**
-x - random teleporter (if you plan to attack saturday)
+ - 1 - 8h shield **mandatory**
+ - 1 - 24h shield **mandatory**
+ - x - random teleporter (if you plan to attack saturday)
 
-5 - 8h construction speed up
-10 - 1h construction speed up
+ 
+ - 5 - 8h construction speed up
+ - 10 - 1h construction speed up
 
-5 - 8h research speed up
-10 - 1h research speed up
+ 
+ - 5 - 8h research speed up
+ - 10 - 1h research speed up
 
-5 - 8h training speed up
-10 - 1h training speed up
+ 
+ - 5 - 8h training speed up
+ - 10 - 1h training speed up
 
 ### Sunday
  - **Save radar tasks**
