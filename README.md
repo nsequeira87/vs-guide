@@ -33,19 +33,19 @@
  - Recruit survivors
  - Legendary secret tasks
  - UR trucks
- - Use all construction speed up
+ - Spend construction speed up
  
 
 #### Wednesday
  - Prioritize researches that needs Valor Badge
- - Use all research speed up
+ - Spend research speed up
 
 #### Thursday
- - Upgrade heroes (exp, shards, )
+ - Upgrade heroes (exp, shards, medals)
  - Recruit heroes
 
 #### Friday 
- - Use all training speed up
+ - Spend training speed up
  - Activate 24h shield before ending the day
 
  #### Saturday
