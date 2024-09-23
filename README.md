@@ -21,9 +21,11 @@
     - Remove heroes equipments
     - Remove statues
     - Lower drill grounds
+    - Remove drone equipment
 - Send squads to gather resources that can **only** finish next day 
 
 ### Monday
+ - Use stamina
  - Upgrade Drone (points and parts)
 
 #### Tuesday
